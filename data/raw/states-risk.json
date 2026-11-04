@@ -1,0 +1,1226 @@
+[
+  {
+    "abbr": "AL",
+    "name": "Alabama",
+    "slug": "alabama",
+    "overallRiskScore": 53,
+    "totalEmployment": 2058930,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Miscellaneous Assemblers and Fabricators",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 59257,
+    "automationVulnerableWorkers": 671940,
+    "vulnerablePct": 32.6,
+    "warnNotices2025": 34,
+    "topCompaniesLayoffs": [
+      "Hyundai",
+      "Boeing",
+      "Austal"
+    ]
+  },
+  {
+    "abbr": "AK",
+    "name": "Alaska",
+    "slug": "alaska",
+    "overallRiskScore": 51,
+    "totalEmployment": 312770,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Stockers and Order Fillers",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Bookkeeping, Accounting, and Auditing Clerks"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 72971,
+    "automationVulnerableWorkers": 85450,
+    "vulnerablePct": 27.3,
+    "warnNotices2025": 6,
+    "topCompaniesLayoffs": [
+      "ConocoPhillips",
+      "Providence Health",
+      "Trident Seafoods"
+    ]
+  },
+  {
+    "abbr": "AZ",
+    "name": "Arizona",
+    "slug": "arizona",
+    "overallRiskScore": 52,
+    "totalEmployment": 3171420,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Customer Service Representatives",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 65162,
+    "automationVulnerableWorkers": 996730,
+    "vulnerablePct": 31.4,
+    "warnNotices2025": 41,
+    "topCompaniesLayoffs": [
+      "Intel",
+      "Wells Fargo",
+      "Nikola"
+    ]
+  },
+  {
+    "abbr": "AR",
+    "name": "Arkansas",
+    "slug": "arkansas",
+    "overallRiskScore": 53,
+    "totalEmployment": 1275340,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Office Clerks, General",
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Heavy and Tractor-Trailer Truck Drivers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 54693,
+    "automationVulnerableWorkers": 406910,
+    "vulnerablePct": 31.9,
+    "warnNotices2025": 22,
+    "topCompaniesLayoffs": [
+      "Walmart",
+      "Tyson Foods",
+      "Dillard's"
+    ]
+  },
+  {
+    "abbr": "CA",
+    "name": "California",
+    "slug": "california",
+    "overallRiskScore": 51,
+    "totalEmployment": 17975210,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Office Clerks, General",
+      "Retail Salespersons",
+      "Laborers and Freight, Stock, and Material Movers, Hand"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 77630,
+    "automationVulnerableWorkers": 5090610,
+    "vulnerablePct": 28.3,
+    "warnNotices2025": 187,
+    "topCompaniesLayoffs": [
+      "Google",
+      "Meta",
+      "Tesla"
+    ]
+  },
+  {
+    "abbr": "CO",
+    "name": "Colorado",
+    "slug": "colorado",
+    "overallRiskScore": 51,
+    "totalEmployment": 2852680,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Cashiers",
+      "Stockers and Order Fillers",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 69867,
+    "automationVulnerableWorkers": 824160,
+    "vulnerablePct": 28.9,
+    "warnNotices2025": 29,
+    "topCompaniesLayoffs": [
+      "Lockheed Martin",
+      "Arrow Electronics",
+      "DaVita"
+    ]
+  },
+  {
+    "abbr": "CT",
+    "name": "Connecticut",
+    "slug": "connecticut",
+    "overallRiskScore": 51,
+    "totalEmployment": 1658110,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Stockers and Order Fillers",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 72733,
+    "automationVulnerableWorkers": 457150,
+    "vulnerablePct": 27.6,
+    "warnNotices2025": 31,
+    "topCompaniesLayoffs": [
+      "Cigna",
+      "Hartford Financial",
+      "Pratt & Whitney"
+    ]
+  },
+  {
+    "abbr": "DE",
+    "name": "Delaware",
+    "slug": "delaware",
+    "overallRiskScore": 52,
+    "totalEmployment": 461260,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General",
+      "Waiters and Waitresses"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 67943,
+    "automationVulnerableWorkers": 140680,
+    "vulnerablePct": 30.5,
+    "warnNotices2025": 9,
+    "topCompaniesLayoffs": [
+      "JPMorgan",
+      "Bank of America",
+      "Capital One"
+    ]
+  },
+  {
+    "abbr": "DC",
+    "name": "District of Columbia",
+    "slug": "district-of-columbia",
+    "overallRiskScore": 46,
+    "totalEmployment": 684690,
+    "topAtRiskOccupations": [
+      "Security Guards",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Waiters and Waitresses",
+      "Accountants and Auditors",
+      "Cashiers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 86212,
+    "automationVulnerableWorkers": 121200,
+    "vulnerablePct": 17.7,
+    "warnNotices2025": 12,
+    "topCompaniesLayoffs": [
+      "Fannie Mae",
+      "World Bank",
+      "Booz Allen"
+    ]
+  },
+  {
+    "abbr": "FL",
+    "name": "Florida",
+    "slug": "florida",
+    "overallRiskScore": 53,
+    "totalEmployment": 9755660,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Customer Service Representatives",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 60529,
+    "automationVulnerableWorkers": 3126340,
+    "vulnerablePct": 32,
+    "warnNotices2025": 98,
+    "topCompaniesLayoffs": [
+      "Disney",
+      "Chewy",
+      "Spirit Airlines"
+    ]
+  },
+  {
+    "abbr": "GA",
+    "name": "Georgia",
+    "slug": "georgia",
+    "overallRiskScore": 52,
+    "totalEmployment": 4826740,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Cashiers",
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 62152,
+    "automationVulnerableWorkers": 1510510,
+    "vulnerablePct": 31.3,
+    "warnNotices2025": 62,
+    "topCompaniesLayoffs": [
+      "Home Depot",
+      "Delta",
+      "NCR Voyix"
+    ]
+  },
+  {
+    "abbr": "HI",
+    "name": "Hawaii",
+    "slug": "hawaii",
+    "overallRiskScore": 52,
+    "totalEmployment": 605220,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Cashiers",
+      "Waiters and Waitresses"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 70520,
+    "automationVulnerableWorkers": 182290,
+    "vulnerablePct": 30.1,
+    "warnNotices2025": 8,
+    "topCompaniesLayoffs": [
+      "Marriott",
+      "Hawaiian Airlines",
+      "Hilton"
+    ]
+  },
+  {
+    "abbr": "ID",
+    "name": "Idaho",
+    "slug": "idaho",
+    "overallRiskScore": 53,
+    "totalEmployment": 828370,
+    "topAtRiskOccupations": [
+      "Office Clerks, General",
+      "Fast Food and Counter Workers",
+      "Customer Service Representatives",
+      "Retail Salespersons",
+      "Cashiers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 60402,
+    "automationVulnerableWorkers": 266870,
+    "vulnerablePct": 32.2,
+    "warnNotices2025": 11,
+    "topCompaniesLayoffs": [
+      "Micron",
+      "Albertsons",
+      "HP"
+    ]
+  },
+  {
+    "abbr": "IL",
+    "name": "Illinois",
+    "slug": "illinois",
+    "overallRiskScore": 52,
+    "totalEmployment": 5991530,
+    "topAtRiskOccupations": [
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 67505,
+    "automationVulnerableWorkers": 1737030,
+    "vulnerablePct": 29,
+    "warnNotices2025": 78,
+    "topCompaniesLayoffs": [
+      "Boeing",
+      "Walgreens",
+      "Caterpillar"
+    ]
+  },
+  {
+    "abbr": "IN",
+    "name": "Indiana",
+    "slug": "indiana",
+    "overallRiskScore": 54,
+    "totalEmployment": 3176960,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Cashiers",
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 61906,
+    "automationVulnerableWorkers": 1023850,
+    "vulnerablePct": 32.2,
+    "warnNotices2025": 48,
+    "topCompaniesLayoffs": [
+      "Eli Lilly",
+      "Cummins",
+      "Carrier"
+    ]
+  },
+  {
+    "abbr": "IA",
+    "name": "Iowa",
+    "slug": "iowa",
+    "overallRiskScore": 53,
+    "totalEmployment": 1555970,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Fast Food and Counter Workers",
+      "Heavy and Tractor-Trailer Truck Drivers",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 61298,
+    "automationVulnerableWorkers": 492560,
+    "vulnerablePct": 31.7,
+    "warnNotices2025": 19,
+    "topCompaniesLayoffs": [
+      "John Deere",
+      "Principal Financial",
+      "Rockwell Collins"
+    ]
+  },
+  {
+    "abbr": "KS",
+    "name": "Kansas",
+    "slug": "kansas",
+    "overallRiskScore": 53,
+    "totalEmployment": 1425610,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Customer Service Representatives",
+      "Retail Salespersons"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 60969,
+    "automationVulnerableWorkers": 459010,
+    "vulnerablePct": 32.2,
+    "warnNotices2025": 17,
+    "topCompaniesLayoffs": [
+      "Spirit AeroSystems",
+      "Koch Industries",
+      "Sprint/T-Mobile"
+    ]
+  },
+  {
+    "abbr": "KY",
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "overallRiskScore": 53,
+    "totalEmployment": 1981770,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Stockers and Order Fillers",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 58970,
+    "automationVulnerableWorkers": 637510,
+    "vulnerablePct": 32.2,
+    "warnNotices2025": 33,
+    "topCompaniesLayoffs": [
+      "Amazon",
+      "Toyota",
+      "UPS"
+    ]
+  },
+  {
+    "abbr": "LA",
+    "name": "Louisiana",
+    "slug": "louisiana",
+    "overallRiskScore": 52,
+    "totalEmployment": 1902140,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Fast Food and Counter Workers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 57454,
+    "automationVulnerableWorkers": 575470,
+    "vulnerablePct": 30.3,
+    "warnNotices2025": 25,
+    "topCompaniesLayoffs": [
+      "Entergy",
+      "CenturyLink",
+      "Ochsner Health"
+    ]
+  },
+  {
+    "abbr": "ME",
+    "name": "Maine",
+    "slug": "maine",
+    "overallRiskScore": 52,
+    "totalEmployment": 626980,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 64312,
+    "automationVulnerableWorkers": 186880,
+    "vulnerablePct": 29.8,
+    "warnNotices2025": 8,
+    "topCompaniesLayoffs": [
+      "L.L.Bean",
+      "IDEXX",
+      "Bath Iron Works"
+    ]
+  },
+  {
+    "abbr": "MD",
+    "name": "Maryland",
+    "slug": "maryland",
+    "overallRiskScore": 50,
+    "totalEmployment": 2718650,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Fast Food and Counter Workers",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 72015,
+    "automationVulnerableWorkers": 706660,
+    "vulnerablePct": 26,
+    "warnNotices2025": 32,
+    "topCompaniesLayoffs": [
+      "Under Armour",
+      "Leidos",
+      "McCormick"
+    ]
+  },
+  {
+    "abbr": "MA",
+    "name": "Massachusetts",
+    "slug": "massachusetts",
+    "overallRiskScore": 50,
+    "totalEmployment": 3595610,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Office Clerks, General",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 75562,
+    "automationVulnerableWorkers": 923720,
+    "vulnerablePct": 25.7,
+    "warnNotices2025": 42,
+    "topCompaniesLayoffs": [
+      "Wayfair",
+      "State Street",
+      "Biogen"
+    ]
+  },
+  {
+    "abbr": "MI",
+    "name": "Michigan",
+    "slug": "michigan",
+    "overallRiskScore": 53,
+    "totalEmployment": 4378790,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Cashiers",
+      "Office Clerks, General",
+      "Miscellaneous Assemblers and Fabricators"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 63953,
+    "automationVulnerableWorkers": 1361340,
+    "vulnerablePct": 31.1,
+    "warnNotices2025": 64,
+    "topCompaniesLayoffs": [
+      "GM",
+      "Ford",
+      "Stellantis"
+    ]
+  },
+  {
+    "abbr": "MN",
+    "name": "Minnesota",
+    "slug": "minnesota",
+    "overallRiskScore": 52,
+    "totalEmployment": 2910530,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Office Clerks, General",
+      "Fast Food and Counter Workers",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 70023,
+    "automationVulnerableWorkers": 831480,
+    "vulnerablePct": 28.6,
+    "warnNotices2025": 28,
+    "topCompaniesLayoffs": [
+      "3M",
+      "Target",
+      "UnitedHealth"
+    ]
+  },
+  {
+    "abbr": "MS",
+    "name": "Mississippi",
+    "slug": "mississippi",
+    "overallRiskScore": 54,
+    "totalEmployment": 1148200,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Fast Food and Counter Workers",
+      "Stockers and Order Fillers",
+      "Laborers and Freight, Stock, and Material Movers, Hand"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 53814,
+    "automationVulnerableWorkers": 376040,
+    "vulnerablePct": 32.8,
+    "warnNotices2025": 18,
+    "topCompaniesLayoffs": [
+      "Nissan",
+      "Ingalls Shipbuilding",
+      "Sanderson Farms"
+    ]
+  },
+  {
+    "abbr": "MO",
+    "name": "Missouri",
+    "slug": "missouri",
+    "overallRiskScore": 53,
+    "totalEmployment": 2895030,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Office Clerks, General",
+      "Retail Salespersons",
+      "Stockers and Order Fillers",
+      "Cooks, Fast Food"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 61622,
+    "automationVulnerableWorkers": 898270,
+    "vulnerablePct": 31,
+    "warnNotices2025": 35,
+    "topCompaniesLayoffs": [
+      "Cerner/Oracle",
+      "Bayer",
+      "Edward Jones"
+    ]
+  },
+  {
+    "abbr": "MT",
+    "name": "Montana",
+    "slug": "montana",
+    "overallRiskScore": 53,
+    "totalEmployment": 501120,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Office Clerks, General",
+      "Retail Salespersons",
+      "Bookkeeping, Accounting, and Auditing Clerks"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 60677,
+    "automationVulnerableWorkers": 159760,
+    "vulnerablePct": 31.9,
+    "warnNotices2025": 5,
+    "topCompaniesLayoffs": [
+      "Glacier Bancorp",
+      "NorthWestern Energy",
+      "Stillwater Mining"
+    ]
+  },
+  {
+    "abbr": "NE",
+    "name": "Nebraska",
+    "slug": "nebraska",
+    "overallRiskScore": 53,
+    "totalEmployment": 1008520,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Retail Salespersons",
+      "Heavy and Tractor-Trailer Truck Drivers",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 61419,
+    "automationVulnerableWorkers": 304520,
+    "vulnerablePct": 30.2,
+    "warnNotices2025": 12,
+    "topCompaniesLayoffs": [
+      "Mutual of Omaha",
+      "ConAgra",
+      "Union Pacific"
+    ]
+  },
+  {
+    "abbr": "NV",
+    "name": "Nevada",
+    "slug": "nevada",
+    "overallRiskScore": 54,
+    "totalEmployment": 1513600,
+    "topAtRiskOccupations": [
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Waiters and Waitresses",
+      "Cashiers"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 64244,
+    "automationVulnerableWorkers": 485850,
+    "vulnerablePct": 32.1,
+    "warnNotices2025": 24,
+    "topCompaniesLayoffs": [
+      "MGM",
+      "Caesars",
+      "Wynn"
+    ]
+  },
+  {
+    "abbr": "NH",
+    "name": "New Hampshire",
+    "slug": "new-hampshire",
+    "overallRiskScore": 53,
+    "totalEmployment": 666030,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Stockers and Order Fillers",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Legal Services",
+    "avgWage": 66111,
+    "automationVulnerableWorkers": 216480,
+    "vulnerablePct": 32.5,
+    "warnNotices2025": 7,
+    "topCompaniesLayoffs": [
+      "BAE Systems",
+      "Dartmouth-Hitchcock",
+      "Fidelity"
+    ]
+  },
+  {
+    "abbr": "NJ",
+    "name": "New Jersey",
+    "slug": "new-jersey",
+    "overallRiskScore": 52,
+    "totalEmployment": 4225780,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Fast Food and Counter Workers",
+      "Laborers and Freight, Stock, and Material Movers, Hand"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 73732,
+    "automationVulnerableWorkers": 1191960,
+    "vulnerablePct": 28.2,
+    "warnNotices2025": 56,
+    "topCompaniesLayoffs": [
+      "Johnson & Johnson",
+      "Prudential",
+      "Cognizant"
+    ]
+  },
+  {
+    "abbr": "NM",
+    "name": "New Mexico",
+    "slug": "new-mexico",
+    "overallRiskScore": 53,
+    "totalEmployment": 842260,
+    "topAtRiskOccupations": [
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 63495,
+    "automationVulnerableWorkers": 268000,
+    "vulnerablePct": 31.8,
+    "warnNotices2025": 9,
+    "topCompaniesLayoffs": [
+      "Intel",
+      "Sandia Labs",
+      "Presbyterian Healthcare"
+    ]
+  },
+  {
+    "abbr": "NY",
+    "name": "New York",
+    "slug": "new-york",
+    "overallRiskScore": 51,
+    "totalEmployment": 9458860,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General",
+      "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 76701,
+    "automationVulnerableWorkers": 2595530,
+    "vulnerablePct": 27.4,
+    "warnNotices2025": 112,
+    "topCompaniesLayoffs": [
+      "Goldman Sachs",
+      "JPMorgan",
+      "IBM"
+    ]
+  },
+  {
+    "abbr": "NC",
+    "name": "North Carolina",
+    "slug": "north-carolina",
+    "overallRiskScore": 52,
+    "totalEmployment": 4889330,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Cooks, Fast Food",
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 61854,
+    "automationVulnerableWorkers": 1519080,
+    "vulnerablePct": 31.1,
+    "warnNotices2025": 52,
+    "topCompaniesLayoffs": [
+      "Bank of America",
+      "Lowe's",
+      "Duke Energy"
+    ]
+  },
+  {
+    "abbr": "ND",
+    "name": "North Dakota",
+    "slug": "north-dakota",
+    "overallRiskScore": 53,
+    "totalEmployment": 417310,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Office Clerks, General",
+      "Retail Salespersons",
+      "Heavy and Tractor-Trailer Truck Drivers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 64063,
+    "automationVulnerableWorkers": 129940,
+    "vulnerablePct": 31.1,
+    "warnNotices2025": 4,
+    "topCompaniesLayoffs": [
+      "Hess",
+      "MDU Resources",
+      "Bobcat"
+    ]
+  },
+  {
+    "abbr": "OH",
+    "name": "Ohio",
+    "slug": "ohio",
+    "overallRiskScore": 52,
+    "totalEmployment": 5499140,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Retail Salespersons",
+      "Stockers and Order Fillers",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 62693,
+    "automationVulnerableWorkers": 1679790,
+    "vulnerablePct": 30.5,
+    "warnNotices2025": 68,
+    "topCompaniesLayoffs": [
+      "Kroger",
+      "Progressive",
+      "Cardinal Health"
+    ]
+  },
+  {
+    "abbr": "OK",
+    "name": "Oklahoma",
+    "slug": "oklahoma",
+    "overallRiskScore": 53,
+    "totalEmployment": 1684190,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Laborers and Freight, Stock, and Material Movers, Hand"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 58418,
+    "automationVulnerableWorkers": 548200,
+    "vulnerablePct": 32.5,
+    "warnNotices2025": 19,
+    "topCompaniesLayoffs": [
+      "Devon Energy",
+      "Paycom",
+      "Chesapeake Energy"
+    ]
+  },
+  {
+    "abbr": "OR",
+    "name": "Oregon",
+    "slug": "oregon",
+    "overallRiskScore": 52,
+    "totalEmployment": 1949230,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Cashiers",
+      "Stockers and Order Fillers",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 69873,
+    "automationVulnerableWorkers": 585000,
+    "vulnerablePct": 30,
+    "warnNotices2025": 22,
+    "topCompaniesLayoffs": [
+      "Intel",
+      "Nike",
+      "Columbia Sportswear"
+    ]
+  },
+  {
+    "abbr": "PA",
+    "name": "Pennsylvania",
+    "slug": "pennsylvania",
+    "overallRiskScore": 52,
+    "totalEmployment": 6003020,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Laborers and Freight, Stock, and Material Movers, Hand"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 63933,
+    "automationVulnerableWorkers": 1736870,
+    "vulnerablePct": 28.9,
+    "warnNotices2025": 72,
+    "topCompaniesLayoffs": [
+      "Comcast",
+      "US Steel",
+      "Rite Aid"
+    ]
+  },
+  {
+    "abbr": "RI",
+    "name": "Rhode Island",
+    "slug": "rhode-island",
+    "overallRiskScore": 52,
+    "totalEmployment": 473130,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Retail Salespersons",
+      "Waiters and Waitresses",
+      "Office Clerks, General"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 70529,
+    "automationVulnerableWorkers": 148550,
+    "vulnerablePct": 31.4,
+    "warnNotices2025": 7,
+    "topCompaniesLayoffs": [
+      "Citizens Financial",
+      "CVS",
+      "Textron"
+    ]
+  },
+  {
+    "abbr": "SC",
+    "name": "South Carolina",
+    "slug": "south-carolina",
+    "overallRiskScore": 53,
+    "totalEmployment": 2256030,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 60704,
+    "automationVulnerableWorkers": 757420,
+    "vulnerablePct": 33.6,
+    "warnNotices2025": 29,
+    "topCompaniesLayoffs": [
+      "BMW",
+      "Boeing",
+      "Michelin"
+    ]
+  },
+  {
+    "abbr": "SD",
+    "name": "South Dakota",
+    "slug": "south-dakota",
+    "overallRiskScore": 54,
+    "totalEmployment": 447290,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Bookkeeping, Accounting, and Auditing Clerks",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 58852,
+    "automationVulnerableWorkers": 158120,
+    "vulnerablePct": 35.4,
+    "warnNotices2025": 4,
+    "topCompaniesLayoffs": [
+      "Citibank",
+      "Smithfield Foods",
+      "Daktronics"
+    ]
+  },
+  {
+    "abbr": "TN",
+    "name": "Tennessee",
+    "slug": "tennessee",
+    "overallRiskScore": 53,
+    "totalEmployment": 3265290,
+    "topAtRiskOccupations": [
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Retail Salespersons",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Customer Service Representatives"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 60742,
+    "automationVulnerableWorkers": 1017240,
+    "vulnerablePct": 31.2,
+    "warnNotices2025": 42,
+    "topCompaniesLayoffs": [
+      "FedEx",
+      "Nissan",
+      "HCA Healthcare"
+    ]
+  },
+  {
+    "abbr": "TX",
+    "name": "Texas",
+    "slug": "texas",
+    "overallRiskScore": 52,
+    "totalEmployment": 13747630,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Customer Service Representatives",
+      "Cashiers",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 62977,
+    "automationVulnerableWorkers": 4082010,
+    "vulnerablePct": 29.7,
+    "warnNotices2025": 132,
+    "topCompaniesLayoffs": [
+      "Dell",
+      "ExxonMobil",
+      "AT&T"
+    ]
+  },
+  {
+    "abbr": "UT",
+    "name": "Utah",
+    "slug": "utah",
+    "overallRiskScore": 52,
+    "totalEmployment": 1699940,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Customer Service Representatives",
+      "Office Clerks, General",
+      "Retail Salespersons",
+      "Cashiers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 63017,
+    "automationVulnerableWorkers": 506030,
+    "vulnerablePct": 29.8,
+    "warnNotices2025": 16,
+    "topCompaniesLayoffs": [
+      "Vivint",
+      "Overstock",
+      "Pluralsight"
+    ]
+  },
+  {
+    "abbr": "VT",
+    "name": "Vermont",
+    "slug": "vermont",
+    "overallRiskScore": 52,
+    "totalEmployment": 293350,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Fast Food and Counter Workers",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 65833,
+    "automationVulnerableWorkers": 82560,
+    "vulnerablePct": 28.1,
+    "warnNotices2025": 3,
+    "topCompaniesLayoffs": [
+      "GlobalFoundries",
+      "Keurig Dr Pepper",
+      "National Life Group"
+    ]
+  },
+  {
+    "abbr": "VA",
+    "name": "Virginia",
+    "slug": "virginia",
+    "overallRiskScore": 51,
+    "totalEmployment": 4027310,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Cashiers",
+      "Fast Food and Counter Workers",
+      "Office Clerks, General",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 67427,
+    "automationVulnerableWorkers": 1137220,
+    "vulnerablePct": 28.2,
+    "warnNotices2025": 38,
+    "topCompaniesLayoffs": [
+      "Capital One",
+      "General Dynamics",
+      "Northrop Grumman"
+    ]
+  },
+  {
+    "abbr": "WA",
+    "name": "Washington",
+    "slug": "washington",
+    "overallRiskScore": 51,
+    "totalEmployment": 3525710,
+    "topAtRiskOccupations": [
+      "Fast Food and Counter Workers",
+      "Retail Salespersons",
+      "Cashiers",
+      "Office Clerks, General",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 76973,
+    "automationVulnerableWorkers": 1000770,
+    "vulnerablePct": 28.4,
+    "warnNotices2025": 48,
+    "topCompaniesLayoffs": [
+      "Amazon",
+      "Microsoft",
+      "Boeing"
+    ]
+  },
+  {
+    "abbr": "WV",
+    "name": "West Virginia",
+    "slug": "west-virginia",
+    "overallRiskScore": 53,
+    "totalEmployment": 694810,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Cooks, Fast Food",
+      "Office Clerks, General",
+      "Stockers and Order Fillers"
+    ],
+    "topAtRiskIndustry": "Retail Trade",
+    "avgWage": 57703,
+    "automationVulnerableWorkers": 218830,
+    "vulnerablePct": 31.5,
+    "warnNotices2025": 11,
+    "topCompaniesLayoffs": [
+      "Consol Energy",
+      "WVU Medicine",
+      "Murray Energy"
+    ]
+  },
+  {
+    "abbr": "WI",
+    "name": "Wisconsin",
+    "slug": "wisconsin",
+    "overallRiskScore": 53,
+    "totalEmployment": 2919470,
+    "topAtRiskOccupations": [
+      "Cashiers",
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Laborers and Freight, Stock, and Material Movers, Hand",
+      "Fast Food and Counter Workers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 64155,
+    "automationVulnerableWorkers": 914960,
+    "vulnerablePct": 31.3,
+    "warnNotices2025": 34,
+    "topCompaniesLayoffs": [
+      "Harley-Davidson",
+      "Kohl's",
+      "Oshkosh Corp"
+    ]
+  },
+  {
+    "abbr": "WY",
+    "name": "Wyoming",
+    "slug": "wyoming",
+    "overallRiskScore": 53,
+    "totalEmployment": 273500,
+    "topAtRiskOccupations": [
+      "Retail Salespersons",
+      "Office Clerks, General",
+      "Fast Food and Counter Workers",
+      "Cashiers",
+      "Heavy and Tractor-Trailer Truck Drivers"
+    ],
+    "topAtRiskIndustry": "Administrative and Support Services",
+    "avgWage": 62322,
+    "automationVulnerableWorkers": 84430,
+    "vulnerablePct": 30.9,
+    "warnNotices2025": 3,
+    "topCompaniesLayoffs": [
+      "Cloud Peak Energy",
+      "PacifiCorp",
+      "Tata Chemicals"
+    ]
+  }
+]

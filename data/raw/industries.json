@@ -1,0 +1,464 @@
+[
+  {
+    "slug": "admin-support",
+    "name": "Administrative and Support Services",
+    "avgRiskScore": 68,
+    "totalEmployment": 36436130,
+    "topOccupations": [
+      "information-and-record-clerks",
+      "other-office-and-administrative-support-workers",
+      "secretaries-and-administrative-assistants",
+      "customer-service-representatives",
+      "financial-clerks"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": -1457621,
+    "projectedChangePct": -4
+  },
+  {
+    "slug": "transportation",
+    "name": "Transportation and Warehousing",
+    "avgRiskScore": 51,
+    "totalEmployment": 27291210,
+    "topOccupations": [
+      "material-moving-workers",
+      "motor-vehicle-operators",
+      "laborers-and-freight-stock-and-material-movers-hand",
+      "stockers-and-order-fillers",
+      "heavy-and-tractor-trailer-truck-drivers"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 1087217,
+    "projectedChangePct": 4
+  },
+  {
+    "slug": "food-service",
+    "name": "Accommodation and Food Services",
+    "avgRiskScore": 54,
+    "totalEmployment": 27226990,
+    "topOccupations": [
+      "food-and-beverage-serving-workers",
+      "fast-food-and-counter-workers",
+      "cooks-and-food-preparation-workers",
+      "waiters-and-waitresses",
+      "other-food-preparation-and-serving-related-workers"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 967899,
+    "projectedChangePct": 3.6
+  },
+  {
+    "slug": "retail",
+    "name": "Retail Trade",
+    "avgRiskScore": 56,
+    "totalEmployment": 26703360,
+    "topOccupations": [
+      "retail-sales-workers",
+      "retail-salespersons",
+      "cashiers",
+      "sales-representatives-services",
+      "sales-representatives-wholesale-and-manufacturing"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": -573880,
+    "projectedChangePct": -2.1
+  },
+  {
+    "slug": "management",
+    "name": "Management",
+    "avgRiskScore": 36,
+    "totalEmployment": 21933660,
+    "topOccupations": [
+      "top-executives",
+      "general-and-operations-managers",
+      "other-management-occupations",
+      "operations-specialties-managers",
+      "advertising-marketing-promotions-public-relations-and-sales-managers"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 1423656,
+    "projectedChangePct": 6.5
+  },
+  {
+    "slug": "finance",
+    "name": "Finance and Insurance",
+    "avgRiskScore": 51,
+    "totalEmployment": 20702870,
+    "topOccupations": [
+      "business-operations-specialists",
+      "financial-specialists",
+      "accountants-and-auditors",
+      "business-operations-specialists-all-other",
+      "project-management-specialists"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 1077735,
+    "projectedChangePct": 5.2
+  },
+  {
+    "slug": "healthcare",
+    "name": "Health Care and Social Assistance",
+    "avgRiskScore": 41,
+    "totalEmployment": 19185410,
+    "topOccupations": [
+      "healthcare-diagnosing-or-treating-practitioners",
+      "registered-nurses",
+      "health-technologists-and-technicians",
+      "licensed-practical-and-licensed-vocational-nurses",
+      "pharmacy-technicians"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 1376778,
+    "projectedChangePct": 7.2
+  },
+  {
+    "slug": "education",
+    "name": "Educational Services",
+    "avgRiskScore": 46,
+    "totalEmployment": 17895400,
+    "topOccupations": [
+      "preschool-elementary-middle-secondary-and-special-education-teachers",
+      "other-educational-instruction-and-library-occupations",
+      "postsecondary-teachers",
+      "elementary-school-teachers-except-special-education",
+      "teaching-assistants-except-postsecondary"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 77251,
+    "projectedChangePct": 0.4
+  },
+  {
+    "slug": "manufacturing",
+    "name": "Manufacturing",
+    "avgRiskScore": 60,
+    "totalEmployment": 17486870,
+    "topOccupations": [
+      "other-production-occupations",
+      "assemblers-and-fabricators",
+      "metal-workers-and-plastic-workers",
+      "miscellaneous-assemblers-and-fabricators",
+      "food-processing-workers"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": -191705,
+    "projectedChangePct": -1.1
+  },
+  {
+    "slug": "healthcare-support",
+    "name": "Health Care and Social Assistance",
+    "avgRiskScore": 50,
+    "totalEmployment": 14896010,
+    "topOccupations": [
+      "home-health-and-personal-care-aides-and-nursing-assistants-orderlies-and-psychiatric-aides",
+      "home-health-and-personal-care-aides",
+      "other-healthcare-support-occupations",
+      "nursing-assistants",
+      "medical-assistants"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 1834813,
+    "projectedChangePct": 12.3
+  },
+  {
+    "slug": "construction",
+    "name": "Construction",
+    "avgRiskScore": 50,
+    "totalEmployment": 12723440,
+    "topOccupations": [
+      "construction-trades-workers",
+      "construction-laborers",
+      "first-line-supervisors-of-construction-trades-and-extraction-workers",
+      "supervisors-of-construction-and-extraction-workers",
+      "electricians"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 652985,
+    "projectedChangePct": 5.1
+  },
+  {
+    "slug": "repair-maintenance",
+    "name": "Other Services",
+    "avgRiskScore": 51,
+    "totalEmployment": 12090050,
+    "topOccupations": [
+      "other-installation-maintenance-and-repair-occupations",
+      "vehicle-and-mobile-equipment-mechanics-installers-and-repairers",
+      "maintenance-and-repair-workers-general",
+      "automotive-service-technicians-and-mechanics",
+      "first-line-supervisors-of-mechanics-installers-and-repairers"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 558955,
+    "projectedChangePct": 4.6
+  },
+  {
+    "slug": "technology",
+    "name": "Information Technology",
+    "avgRiskScore": 40,
+    "totalEmployment": 10385760,
+    "topOccupations": [
+      "computer-occupations",
+      "software-developers",
+      "computer-user-support-specialists",
+      "computer-systems-analysts",
+      "computer-occupations-all-other"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 1048198,
+    "projectedChangePct": 10.1
+  },
+  {
+    "slug": "facilities",
+    "name": "Administrative and Support Services",
+    "avgRiskScore": 50,
+    "totalEmployment": 8992310,
+    "topOccupations": [
+      "building-cleaning-and-pest-control-workers",
+      "janitors-and-cleaners-except-maids-and-housekeeping-cleaners",
+      "grounds-maintenance-workers",
+      "landscaping-and-groundskeeping-workers",
+      "maids-and-housekeeping-cleaners"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 187317,
+    "projectedChangePct": 2.1
+  },
+  {
+    "slug": "public-admin",
+    "name": "Public Administration",
+    "avgRiskScore": 47,
+    "totalEmployment": 7309830,
+    "topOccupations": [
+      "other-protective-service-workers",
+      "security-guards",
+      "law-enforcement-workers",
+      "police-and-sheriff-s-patrol-officers",
+      "supervisors-of-protective-service-workers"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 56299,
+    "projectedChangePct": 0.8
+  },
+  {
+    "slug": "personal-services",
+    "name": "Other Services",
+    "avgRiskScore": 47,
+    "totalEmployment": 6319860,
+    "topOccupations": [
+      "other-personal-care-and-service-workers",
+      "entertainment-attendants-and-related-workers",
+      "personal-appearance-workers",
+      "childcare-workers",
+      "amusement-and-recreation-attendants"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 269149,
+    "projectedChangePct": 4.3
+  },
+  {
+    "slug": "social-services",
+    "name": "Health Care and Social Assistance",
+    "avgRiskScore": 34,
+    "totalEmployment": 5139270,
+    "topOccupations": [
+      "counselors-social-workers-and-other-community-and-social-service-specialists",
+      "substance-abuse-behavioral-disorder-and-mental-health-counselors",
+      "social-and-human-service-assistants",
+      "child-family-and-school-social-workers",
+      "educational-guidance-and-career-counselors-and-advisors"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 376602,
+    "projectedChangePct": 7.3
+  },
+  {
+    "slug": "engineering",
+    "name": "Professional, Scientific, and Technical Services",
+    "avgRiskScore": 41,
+    "totalEmployment": 5134430,
+    "topOccupations": [
+      "engineers",
+      "drafters-engineering-technicians-and-mapping-technicians",
+      "civil-engineers",
+      "industrial-engineers",
+      "mechanical-engineers"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 273796,
+    "projectedChangePct": 5.3
+  },
+  {
+    "slug": "arts-entertainment",
+    "name": "Arts, Entertainment, and Recreation",
+    "avgRiskScore": 40,
+    "totalEmployment": 4197410,
+    "topOccupations": [
+      "art-and-design-workers",
+      "media-and-communication-workers",
+      "entertainers-and-performers-sports-and-related-workers",
+      "public-relations-specialists",
+      "coaches-and-scouts"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 117736,
+    "projectedChangePct": 2.8
+  },
+  {
+    "slug": "science",
+    "name": "Professional, Scientific, and Technical Services",
+    "avgRiskScore": 42,
+    "totalEmployment": 2893550,
+    "topOccupations": [
+      "life-scientists",
+      "life-physical-and-social-science-technicians",
+      "social-scientists-and-related-workers",
+      "physical-scientists",
+      "occupational-health-and-safety-specialists-and-technicians"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 147837,
+    "projectedChangePct": 5.1
+  },
+  {
+    "slug": "legal",
+    "name": "Legal Services",
+    "avgRiskScore": 46,
+    "totalEmployment": 2546820,
+    "topOccupations": [
+      "lawyers-judges-and-related-workers",
+      "lawyers",
+      "legal-support-workers",
+      "paralegals-and-legal-assistants",
+      "title-examiners-abstractors-and-searchers"
+    ],
+    "aiAdoptionStage": "growing",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": 66333,
+    "projectedChangePct": 2.6
+  },
+  {
+    "slug": "agriculture",
+    "name": "Agriculture, Forestry, Fishing, and Hunting",
+    "avgRiskScore": 57,
+    "totalEmployment": 881980,
+    "topOccupations": [
+      "agricultural-workers",
+      "farmworkers-and-laborers-crop-nursery-and-greenhouse",
+      "forest-conservation-and-logging-workers",
+      "farmworkers-farm-ranch-and-aquacultural-animals",
+      "agricultural-equipment-operators"
+    ],
+    "aiAdoptionStage": "advanced",
+    "keyTrends": [
+      "AI automation increasing",
+      "Demand shifting to higher-skill roles",
+      "Technology adoption accelerating"
+    ],
+    "projectedJobChange": -20187,
+    "projectedChangePct": -2.3
+  }
+]
